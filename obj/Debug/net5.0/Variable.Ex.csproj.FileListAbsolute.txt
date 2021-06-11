@@ -1,0 +1,16 @@
+C:\Users\Liv\Desktop\repos\Variable.Ex\bin\Debug\net5.0\Variable.Ex.exe
+C:\Users\Liv\Desktop\repos\Variable.Ex\bin\Debug\net5.0\Variable.Ex.deps.json
+C:\Users\Liv\Desktop\repos\Variable.Ex\bin\Debug\net5.0\Variable.Ex.runtimeconfig.json
+C:\Users\Liv\Desktop\repos\Variable.Ex\bin\Debug\net5.0\Variable.Ex.runtimeconfig.dev.json
+C:\Users\Liv\Desktop\repos\Variable.Ex\bin\Debug\net5.0\Variable.Ex.dll
+C:\Users\Liv\Desktop\repos\Variable.Ex\bin\Debug\net5.0\ref\Variable.Ex.dll
+C:\Users\Liv\Desktop\repos\Variable.Ex\bin\Debug\net5.0\Variable.Ex.pdb
+C:\Users\Liv\Desktop\repos\Variable.Ex\obj\Debug\net5.0\Variable.Ex.csproj.AssemblyReference.cache
+C:\Users\Liv\Desktop\repos\Variable.Ex\obj\Debug\net5.0\Variable.Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liv\Desktop\repos\Variable.Ex\obj\Debug\net5.0\Variable.Ex.AssemblyInfoInputs.cache
+C:\Users\Liv\Desktop\repos\Variable.Ex\obj\Debug\net5.0\Variable.Ex.AssemblyInfo.cs
+C:\Users\Liv\Desktop\repos\Variable.Ex\obj\Debug\net5.0\Variable.Ex.csproj.CoreCompileInputs.cache
+C:\Users\Liv\Desktop\repos\Variable.Ex\obj\Debug\net5.0\Variable.Ex.dll
+C:\Users\Liv\Desktop\repos\Variable.Ex\obj\Debug\net5.0\ref\Variable.Ex.dll
+C:\Users\Liv\Desktop\repos\Variable.Ex\obj\Debug\net5.0\Variable.Ex.pdb
+C:\Users\Liv\Desktop\repos\Variable.Ex\obj\Debug\net5.0\Variable.Ex.genruntimeconfig.cache
